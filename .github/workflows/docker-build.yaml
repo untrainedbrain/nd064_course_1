@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: untrainedbrain/python-helloworld:latest
+          tags: untrainedbrain/python-helloworld:latest 
